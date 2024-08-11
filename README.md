@@ -1,6 +1,6 @@
 # Firefox-Theme-Internet-Explorer-
 
-Firefox theme internet Firefox 
+Firefox theme internet Explorer 12
 
 -Firefox theme Support Windows 7,8,10,11 
 
